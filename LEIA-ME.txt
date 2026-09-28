@@ -1,0 +1,9 @@
+FONOVIVA - COMO GERAR O APK
+
+1) Extraia o ZIP no computador (botao direito > Extrair tudo).
+2) No GitHub, crie um repositorio PUBLICO (ex.: fonoviva).
+3) Envie o CONTEUDO da pasta (index.html, manifest.json, sw.js, icons) - nao a pasta em si.
+4) Settings > Pages > Branch main / (root) > Save.
+5) Abra https://SEU-USUARIO.github.io/fonoviva/ e confirme que carrega.
+6) Em pwabuilder.com cole o endereco > Start > Package for stores > Android > Generate.
+7) Baixe o zip, instale o .apk no celular. Guarde a chave de assinatura e a senha.
